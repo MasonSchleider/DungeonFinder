@@ -1,0 +1,7 @@
+{
+  "key.categories.dungeonfinder": "DungeonFinder",
+  
+  "key.dungeonfinder.reset": "Restart Search",
+  "key.dungeonfinder.toggle_overlay": "Show/Hide Text",
+  "key.dungeonfinder.toggle_thread": "Pause/Resume Search"
+}
