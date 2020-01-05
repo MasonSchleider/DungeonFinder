@@ -12,6 +12,8 @@ The algorithm used is extremely quick, capable of scanning all rendered chunks (
 
 For now, the mod just displays its status and search results as text at the top-right corner of the HUD.
 
+![Screenshot](screenshot.png)
+
 ## Default Hotkeys
 
 * `[ (Left Bracket) = Restart Search`
